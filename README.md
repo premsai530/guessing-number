@@ -1,1 +1,1 @@
-# guessing-number
+# guessing the number
